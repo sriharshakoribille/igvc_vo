@@ -1,0 +1,8 @@
+KF
+EKF
+MCKF
+
+http://www.sherpa-project.eu/sherpa/sites/default/files/Scaramuzza%20-%20Visual%20SLAM%20tutorial.pdf
+http://rpg.ifi.uzh.ch/docs/PhD16_Forster.pdf
+http://upcommons.upc.edu/bitstream/handle/2099.1/26213/103146.pdf?sequence=1
+http://dces.essex.ac.uk/staff/hhu/Papers/JAR-V29-N20-2015-1289%E2%80%931301.pdf
