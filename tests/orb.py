@@ -9,7 +9,7 @@ while(True):
 	ret,img=cap.read()
 #def features(img)
 # Initiate STAR detector
-	orb = cv2.ORB_create(nfeatures=20000)
+	orb = cv2.ORB_create(nfeatures=2000)
 
 		# find the keypoints with ORB
 	kp = orb.detect(img,None)
